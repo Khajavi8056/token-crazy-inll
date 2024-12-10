@@ -17,4 +17,4 @@ cd extracted_files || { echo "پوشه پیدا نشد!"; exit 1; }
 
 # اجرای فایل مورد نظر (تغییر دهید به فایل مناسب)
 echo "در حال اجرای اسکریپت..."
-bash script.sh
+bash install_project.sh
